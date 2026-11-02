@@ -49,4 +49,4 @@ Awan is a collaborative undergraduate graduation project developed by **Shahad A
 
 ## Current Status
 
-The project is progressing from planning and requirements analysis toward further design and implementation. Source code and updated documentation will be added as the project develops.
+The project is progressing from planning and requirements analysis toward further design and implementation. 
